@@ -1,10 +1,10 @@
 {
-  "name": "backend",
+  "name": "task-app-backend",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
-  "license": "UNLICENSED",
+  "description": "https://github.com/emintayfur/task-app-backend",
+  "author": "Emin TAYFUR",
+  "private": false,
+  "license": "MPLV2",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
